@@ -1,0 +1,10 @@
+{
+  "name": "snyk-target-grouping-test",
+  "version": "1.0.0",
+  "description": "Test repo for validating Snyk Target grouping across monitor/code test/secrets test",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "express": "4.16.0"
+  }
+}
